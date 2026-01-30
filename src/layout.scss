@@ -8,12 +8,15 @@
 
   @include sm {
     max-width: 624px;
+    background: #fcf5f3;
   }
 
   @include md {
     max-width: 724px;
+    background: rgb(224, 224, 240);
   }
   @include lg {
     max-width: 1240px;
+    background: #ffae97;
   }
 }
